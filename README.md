@@ -15,3 +15,7 @@ Entrega modulo 1- Tecmicas y herramientas modernas
 -Gino Benedetti <https://github.com/Ginobenedetti/entregamódulo1>
 
 -Octavio Scaccia <https://github.com/octa-scaccia/entregamódulo1>
+
+*Ejercicio 1: Como crear, modificar y hacer el archivo README.md*
+
+*Ejercicio 2: Creacion de un archivo *
