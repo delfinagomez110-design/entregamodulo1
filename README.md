@@ -10,7 +10,7 @@ Entrega modulo 1- Tecmicas y herramientas modernas
 
 -Martina Pereyra <https://github.com/martinapereyra03/entregamódulo1>
 
--Sol Florindo <>
+-Sol Florindo <https://github.com/solflorindo/entregamódulo1>
 
 -Gino Benedetti <https://github.com/Ginobenedetti/entregamódulo1>
 
