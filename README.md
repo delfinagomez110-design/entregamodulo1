@@ -18,4 +18,12 @@ Entrega modulo 1- Tecmicas y herramientas modernas
 
 *Ejercicio 1: Como crear, modificar y hacer el archivo README.md*
 
-*Ejercicio 2: Creacion de un archivo *
+*Ejercicio 2: Creacion de un archivo html en forma manual*
+
+*Ejercicio 3: Crear un archivo en LATex en https://overleaf.com*
+
+*Ejercico 4: Creación de nooteboks*
+
+*Ejercicio 5: Creación de un CV en LATex*
+
+*Ejercicio 6: Creación de un archivo con metadatos en el entorno R*
