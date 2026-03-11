@@ -29,4 +29,36 @@ En las celdas de Texto, usás el lenguaje Markdown. Es la forma estándar de doc
 ## Subtítulo: Para separar secciones (ej: "Cálculos de Presión").
 *negrita*: Para resaltar términos técnicos.
 
+# Atajos de Teclado esenciales para Google Docs
+
+Esta es una guía rápida de productividad para mejorar el flujo de trabajo en Google Docs.
+
+## 1. Formato de Texto
+| Acción | Atajo (Windows/ChromeOS) | Atajo (macOS) |
+| :--- | :--- | :--- |
+| **Negrita** | `Ctrl + B` | `Cmd + B` |
+| *Cursiva* | `Ctrl + I` | `Cmd + I` |
+| __Subrayado__ | `Ctrl + U` | `Cmd + U` |
+| Tachado | `Alt + Shift + 5` | `Cmd + Shift + X` |
+| Insertar enlace | `Ctrl + K` | `Cmd + K` |
+| Copiar formato | `Ctrl + Alt + C` | `Cmd + Option + C` |
+
+## 2. Estilos de Párrafo
+- **Texto normal:** `Ctrl + Alt + 0`
+- **Título 1:** `Ctrl + Alt + 1`
+- **Título 2:** `Ctrl + Alt + 2`
+- **Título 3:** `Ctrl + Alt + 3`
+- **Lista con viñetas:** `Ctrl + Shift + 8`
+- **Lista numerada:** `Ctrl + Shift + 7`
+
+## 3. Edición y Herramientas
+- **Repetir última acción:** `Ctrl + Y`
+- **Recuento de palabras:** `Ctrl + Shift + C`
+- **Insertar comentario:** `Ctrl + Alt + M`
+- **Diccionario/Definir:** `Ctrl + Shift + Y`
+
+## 4. Navegación rápida
+- **Buscar en el documento:** `Ctrl + F`
+- **Buscar y reemplazar:** `Ctrl + H`
+- **Mostrar lista de atajos completa:** `Ctrl + /`
 
