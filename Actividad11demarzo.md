@@ -6,7 +6,7 @@
 11 de Marzo -> colab github tablas, incrustar imágenes, html w3c, construcción de landing page
 
 
-##Listado de integrantes
+Listado de integrantes
 
 
 | Apellido(s) | Nombre(s) | Correo Electrónico | WhatsApp |
