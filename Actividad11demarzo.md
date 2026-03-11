@@ -18,17 +18,6 @@ Listado de integrantes
 | Scaccia | Octavio | octascaccia@gmail.com | 2634407887 |
 | Benedetti | Gino | ginob987@gmail.com | 2634637040 |
 
-##Como hacer un codigo markdown en Colaboratory 
-1- Abrimos la opcion editar 
-2- Seleccinamos el tipo de entorno de ejecucion (R)
-3- Seleccionamos el acelerador por Hardware (CPU)
-
-Cómo poner títulos
-En las celdas de Texto, usás el lenguaje Markdown. Es la forma estándar de documentar ingeniería:
-# Título Principal: Se usa para el nombre del proyecto.
-## Subtítulo: Para separar secciones (ej: "Cálculos de Presión").
-*negrita*: Para resaltar términos técnicos.
-
 # Atajos de Teclado esenciales para Google Docs
 
 Esta es una guía rápida de productividad para mejorar el flujo de trabajo en Google Docs.
