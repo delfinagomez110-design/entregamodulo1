@@ -1,7 +1,7 @@
 ## Actividades 11 de marzo 
 
 
-¡[Sinergia 5S](tecnicas.jpg)
+![](tecnicas.jpg)
 
 11 de Marzo -> colab github tablas, incrustar imágenes, html w3c, construcción de landing page
 
