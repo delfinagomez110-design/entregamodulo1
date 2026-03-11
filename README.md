@@ -28,22 +28,3 @@ Entrega modulo 1- Tecmicas y herramientas modernas
 
 *Ejercicio 6: Creación de un archivo con metadatos en el entorno R*
 
-## Actividades 11 de marzo 
-
-
-11 de Marzo -> colab github tablas, incrustar imágenes, html w3c, construcción de landing page
-
-
-##Listado de integrantes
-
-
-| Apellido(s) | Nombre(s) | Correo Electrónico | WhatsApp |
-|---|---|---|---|
-| Gomez Ganam | Delfina | delfinagomez110@gmail.com | 2634220818 |
-| Pereyra | Martina | martinapereyra0709@gmail.com | 2612423792 |
-| Florindo | Sol | solflorindo03@gmail.com | 2614667429 |
-| André | Rocío | rocioandre26@gmail.com | 2612170979 |
-| Scaccia | Octavio | octascaccia@gmail.com | 2634407887 |
-| Benedetti | Gino | ginob987@gmail.com | 2634637040 |
-
-
