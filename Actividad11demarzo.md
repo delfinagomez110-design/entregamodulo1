@@ -51,5 +51,5 @@ Esta es una guía rápida de productividad para mejorar el flujo de trabajo en G
 - **Buscar y reemplazar:** `Ctrl + H`
 - **Mostrar lista de atajos completa:** `Ctrl + /`
 
-- $$e^{i\pi} + 1 = 0$$
+- $e^{i\pi} + 1 = 0$
 
