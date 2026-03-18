@@ -1,7 +1,7 @@
 # entregamodulo1
 Entrega modulo 1- Tecmicas y herramientas modernas 
 
-*Grupo ""*
+*Grupo "SINERGIA 5S"*
 
 
 -Delfina Gómez <https://github.com/delfinagomez110-design/entregamódulo1>
