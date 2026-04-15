@@ -1,5 +1,5 @@
 # entregamodulo1
-Entrega modulo 1- Tecmicas y herramientas modernas 
+Entrega modulo 1- Tecnicas y herramientas modernas 
 
 *Grupo "SINERGIA 5S"*
 
